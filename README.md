@@ -1,4 +1,2 @@
 # test
-abc
-def
-def2
+a
